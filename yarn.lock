@@ -2438,6 +2438,11 @@
   dependencies:
     firebase "12.6.0"
 
+"@react-native-firebase/messaging@^23.7.0":
+  version "23.7.0"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/messaging/-/messaging-23.7.0.tgz#fd5eafbe728cf81015acf1ac4b676e2ab411884a"
+  integrity sha512-MFrV2WMnKzsmfkFNY8XLqBlV0FS1VCJC1HAMbXEBjJblVlVLOM+kap08SyHh1qqoXdfaf0mtzGQtpya/kHaAqg==
+
 "@react-native/assets-registry@0.83.0":
   version "0.83.0"
   resolved "https://registry.yarnpkg.com/@react-native/assets-registry/-/assets-registry-0.83.0.tgz#81a4a3c48069f4e2e4e9d55dbd4fbcb8102246be"

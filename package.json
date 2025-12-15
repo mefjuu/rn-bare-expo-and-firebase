@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@react-native-firebase/app": "^23.7.0",
+    "@react-native-firebase/messaging": "^23.7.0",
     "@react-native/new-app-screen": "0.83.0-rc.5",
     "expo": "^55.0.0-canary-20251212-acb11f2",
     "react": "19.2.0",

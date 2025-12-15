@@ -44,9 +44,9 @@ target 'rn083test' do
   $RNFirebaseAsStaticFramework = true
 
   use_react_native!(
+    :hermes_enabled => true,
     :path => config[:reactNativePath],
     # An absolute path to your application root.
-     :hermes_enabled => true,
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
